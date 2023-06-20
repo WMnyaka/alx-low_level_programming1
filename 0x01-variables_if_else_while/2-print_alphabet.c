@@ -4,7 +4,6 @@
  * main - Prints the alphabets
  * Return: Always (Success) 
  */
-
 int main(void)
 
 {
