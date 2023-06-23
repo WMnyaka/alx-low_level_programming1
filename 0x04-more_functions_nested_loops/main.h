@@ -1,3 +1,12 @@
+#ifndef MAIN_H
+#define MAIN_H
+
+/**
+ * main - header file for prototypes
+ * void prototypes (void)
+ * int prototypes (int)
+ */
+
 int _putchar(char c);
 
 int _isupper(int c);
@@ -21,3 +30,5 @@ void print_square(int size);
 void print_triangle(int size);
 
 void print_number(int n);
+
+#endif /* MAIN_H */
